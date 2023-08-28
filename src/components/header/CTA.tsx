@@ -1,4 +1,4 @@
-import CV from "../../assets/helvatica-resume.pdf";
+import CV from "../../assets/Resume.pdf";
 const CTA = () => {
   return (
     <div className="cta">
