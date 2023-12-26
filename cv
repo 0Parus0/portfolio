@@ -1,0 +1,39 @@
+\section*{Projects}
+\subsection*{Fast-Track-Pizza (Restaurant Ordering System)}
+\begin{itemize}[label=--]
+\item Developed a frontend for a restaurant using React, React Redux, Redux Toolkit, and React Router.
+\item Developed a responsive user interface with Tailwind CSS, ensuring optimal user experience on different devices.
+\item Integrated API calls to load the restaurant menu dynamically, allowing users to view and select items.
+\item Implemented a shopping cart functionality to enable users to order multiple pizzas and review their selections.
+\item Added a feature for users to mark priority orders, with a 20\% additional charge, enhancing customer options.
+\item Implemented testing with React Testing Library and Jest.
+\end{itemize}
+
+\subsection\*{Portfolio Website (Personal Showcase)}
+\begin{itemize}[label=--]
+\item Developed a personal portfolio website using React, React Icons, Email.js, Swiper, and TypeScript.
+\item Created a dynamic and visually appealing showcase of projects, skills, and contact information.
+\item Utilized React Icons for engaging visual elements and Swiper for smooth image carousels.
+\item Integrated Email.js for a user-friendly contact form, allowing visitors to easily reach out.
+\item Demonstrated proficiency in TypeScript for enhanced code quality and development experience.
+\end{itemize}
+
+\subsection\*{Customizable React UI Components Library}
+\begin{itemize}[label=--]
+\item Created a highly customizable React UI components library using React, Tailwind CSS, PropTypes, React Icons, and other technologies.
+\item Implemented UI components including Custom-Navigation, Accordion, Button, Dropdown, Link, Modal, Panel, Route, Sidebar, and Sort-able Table.
+\item Ensured modularity and re-usability of components, allowing easy integration across projects and facilitating collaboration within the team.
+\item Promoted code quality by utilizing PropTypes and adhering to coding standards, contributing to a maintainable and scalable codebase.
+\item Utilized Git and GitHub for version control and collaborative development.
+\end{itemize}
+
+\subsection\*{Natours Landing Page}
+\begin{itemize}[label=--]
+\item Developed a stunning landing page for a nature tour company using only HTML and SCSS.
+\item Utilized a custom-built grid system with "BEM" class naming and 7-1 folder structure for organized and maintainable code.
+\item Achieved full responsiveness with responsive images and ensured a beautiful and consistent user experience across various devices.
+\item Implemented captivating animations for enhanced visual appeal and engagement.
+\item Created a cards section with 180-degree hover animation, enhancing interactivity and user engagement.
+\item Developed a hamburger navigation with open and close functionality for seamless navigation on small screens.
+\item Created a beautiful modal for displaying additional information, enhancing user interaction and information accessibility.
+\end{itemize}

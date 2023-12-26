@@ -1,8 +1,8 @@
 import "./portfolio.css";
 import IMG1 from "../../assets/color_picker.png";
 import IMG2 from "../../assets/health_meal.png";
-import IMG3 from "../../assets/nature_tours.png";
-import IMG4 from "../../assets/reuseable_components.png";
+import IMG3 from "../../assets/outdoors.jpg";
+import IMG4 from "../../assets/parus-wild-oasis.jpg";
 import IMG5 from "../../assets/portfolio_Pizza.png";
 import IMG6 from "../../assets/world_tour.jpg";
 
@@ -15,6 +15,13 @@ type DataObj = {
 };
 
 const data: DataObj[] = [
+  {
+    id: 4,
+    image: IMG4,
+    title: "A stunning hotel management app. ",
+    git: "https://github.com/0Parus0/parus-wild-oasis",
+    demo: "https://parus-wild-oasis.netlify.app/",
+  },
   {
     id: 1,
     image: IMG1,
@@ -32,17 +39,9 @@ const data: DataObj[] = [
   {
     id: 3,
     image: IMG3,
-    title:
-      "A landing page for a company which arranges the tours for adventurous people",
+    title: "Outdoor tours for adventurous people",
     git: "https://github.com/0Parus0/natours",
     demo: "https://parus-natours.netlify.app/",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Highly customizable, reuseable react components for the team",
-    git: "https://github.com/0Parus0/reuseable-react-components",
-    demo: "https://parus-reuseable-react-components.netlify.app/",
   },
   {
     id: 5,
